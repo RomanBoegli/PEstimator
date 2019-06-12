@@ -1,0 +1,64 @@
+
+#app {
+	-fx-background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+#lbl_txt_CurrentPi {
+	-fx-font-size: 50;
+	-fx-text-alignment: left;
+	-fx-font-family: Consolas;
+}
+
+#txt_CurrentPi {
+	-fx-font-size: 50;
+	-fx-text-alignment: left;
+	-fx-background-color: #E0E0E0;
+	-fx-font-family: Consolas;
+}
+
+
+
+#holder_top {
+	-fx-spacing: 0;
+	-fx-padding: 0;
+	-fx-background-color: #F0B2B2;
+	-fx-border-style: solid inside;
+	-fx-border-color: #B32F2F;
+}
+#holder_left {
+	-fx-spacing: 20;
+	-fx-padding: 10;
+	-fx-background-color: #E6D0FF;
+	-fx-border-style: solid inside;
+	-fx-border-color: #7C13F3;
+}
+#holder_center {
+	-fx-spacing: 0;
+	-fx-padding: 0;
+	-fx-margin: 0;
+	-fx-background-color: #B2E1F5;
+	-fx-border-style: solid inside;
+	-fx-border-color: #13B0F3;
+}
+#holder_right {
+	-fx-spacing: 0;
+	-fx-padding: 0;
+	-fx-background-color: #B2F5C2;
+	-fx-border-style: solid inside;
+	-fx-border-color: #37D55C;
+}
+
+
+
+
+
+
